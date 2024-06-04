@@ -1,0 +1,42 @@
+{
+  "listOfDeposits" : [
+    {
+      "serviceTypeCode" : 1,
+      "serviceTypeDesc" : "الاستقدام",
+      "amount" : 100000,
+      "bankCode" : 20,
+      "bankDesc" : "نظام سداد للمدفوعات الحكومية",
+      "depositDateTime" : "2014-02-26T09:43:25",
+      "lastDepositRefNumber" : "TEST"
+    },
+    {
+      "serviceTypeCode" : 3,
+      "serviceTypeDesc" : "مراقبة الا جانب",
+      "amount" : 100000,
+      "bankCode" : 20,
+      "bankDesc" : "نظام سداد للمدفوعات الحكومية",
+      "depositDateTime" : "2014-02-26T09:43:25",
+      "lastDepositRefNumber" : "TEST"
+    },
+    {
+      "serviceTypeCode" : 4,
+      "serviceTypeDesc" : "رخص السير",
+      "amount" : 800,
+      "bankCode" : 20,
+      "bankDesc" : "نظام سداد للمدفوعات الحكومية",
+      "depositDateTime" : "2017-12-10T16:54:00",
+      "lastDepositRefNumber" : null
+    },
+    {
+      "serviceTypeCode" : 5,
+      "serviceTypeDesc" : "جوازات السعوديين",
+      "amount" : 0,
+      "bankCode" : 20,
+      "bankDesc" : "نظام سداد للمدفوعات الحكومية",
+      "depositDateTime" : "2021-07-29T19:43:17",
+      "lastDepositRefNumber" : "TEST"
+    }
+  ],
+  "requestTimestamp" : "2022-04-12T11:35:45.324238+03:00",
+  "responseTimestamp" : "2022-04-12T11:35:45.3508463+03:00"
+}

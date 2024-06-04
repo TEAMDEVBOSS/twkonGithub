@@ -1,0 +1,417 @@
+ [
+            {
+                "CityID": 603,
+                "CityNameAr": "مكة المكرمة",
+                "CityNameLa": "Makkah"
+            },
+            {
+                "CityID": 605,
+                "CityNameAr": "المدينة المنورة",
+                "CityNameLa": "Madina"
+            },
+            {
+                "CityID": 614,
+                "CityNameAr": "جيزان",
+                "CityNameLa": "Jizan"
+            },
+            {
+                "CityID": 602,
+                "CityNameAr": "جدة",
+                "CityNameLa": "Jeddah"
+            },
+            {
+                "CityID": 601,
+                "CityNameAr": "الرياض",
+                "CityNameLa": "Riyadh"
+            },
+            {
+                "CityID": 604,
+                "CityNameAr": "الطائف",
+                "CityNameLa": "Taif"
+            },
+            {
+                "CityID": 606,
+                "CityNameAr": "تبوك",
+                "CityNameLa": "Tabuk"
+            },
+            {
+                "CityID": 607,
+                "CityNameAr": "الدمام",
+                "CityNameLa": "Dammam"
+            },
+            {
+                "CityID": 608,
+                "CityNameAr": "الخبر",
+                "CityNameLa": "Khobar"
+            },
+            {
+                "CityID": 609,
+                "CityNameAr": "الهفوف",
+                "CityNameLa": "Al Hafuf"
+            },
+            {
+                "CityID": 610,
+                "CityNameAr": "بريدة",
+                "CityNameLa": "Buraydah"
+            },
+            {
+                "CityID": 611,
+                "CityNameAr": "حائل",
+                "CityNameLa": "Hail"
+            },
+            {
+                "CityID": 612,
+                "CityNameAr": "عرعر",
+                "CityNameLa": "ArAr"
+            },
+            {
+                "CityID": 613,
+                "CityNameAr": "أبها",
+                "CityNameLa": "Abha"
+            },
+            {
+                "CityID": 615,
+                "CityNameAr": "شقراء",
+                "CityNameLa": "Shaqra"
+            },
+            {
+                "CityID": 616,
+                "CityNameAr": "الدوادمي",
+                "CityNameLa": "Dawadmi"
+            },
+            {
+                "CityID": 617,
+                "CityNameAr": "القويعية",
+                "CityNameLa": "AL-qwia"
+            },
+            {
+                "CityID": 618,
+                "CityNameAr": "عفيف",
+                "CityNameLa": "Afif"
+            },
+            {
+                "CityID": 619,
+                "CityNameAr": "المجمعة",
+                "CityNameLa": "Al Majmaah"
+            },
+            {
+                "CityID": 620,
+                "CityNameAr": "الزلفي",
+                "CityNameLa": "Al Zilfi"
+            },
+            {
+                "CityID": 621,
+                "CityNameAr": "حريملاء",
+                "CityNameLa": "Huraymala"
+            },
+            {
+                "CityID": 622,
+                "CityNameAr": "ثادق",
+                "CityNameLa": "Tadiq"
+            },
+            {
+                "CityID": 623,
+                "CityNameAr": "حوطة بني تميم",
+                "CityNameLa": "Hawtat Bani Tamim"
+            },
+            {
+                "CityID": 624,
+                "CityNameAr": "الخرج",
+                "CityNameLa": "Al kharj"
+            },
+            {
+                "CityID": 625,
+                "CityNameAr": "الافلاج",
+                "CityNameLa": "AL-aflaj"
+            },
+            {
+                "CityID": 626,
+                "CityNameAr": "وادى الدواسر",
+                "CityNameLa": "Wadi ad-Dawasir"
+            },
+            {
+                "CityID": 627,
+                "CityNameAr": "القطيف",
+                "CityNameLa": "Qatif"
+            },
+            {
+                "CityID": 628,
+                "CityNameAr": "الجبيل",
+                "CityNameLa": "Jubail"
+            },
+            {
+                "CityID": 629,
+                "CityNameAr": "قريه",
+                "CityNameLa": "Qariah"
+            },
+            {
+                "CityID": 630,
+                "CityNameAr": "حفر الباطن",
+                "CityNameLa": "Hafar Al Baten"
+            },
+            {
+                "CityID": 631,
+                "CityNameAr": "الخفجي",
+                "CityNameLa": "Al Khafji"
+            },
+            {
+                "CityID": 632,
+                "CityNameAr": "طريف",
+                "CityNameLa": "Turayf"
+            },
+            {
+                "CityID": 633,
+                "CityNameAr": "رفحاء",
+                "CityNameLa": "Rafha"
+            },
+            {
+                "CityID": 634,
+                "CityNameAr": "تيماء",
+                "CityNameLa": "Tayma"
+            },
+            {
+                "CityID": 635,
+                "CityNameAr": "ضباء",
+                "CityNameLa": "Duba"
+            },
+            {
+                "CityID": 636,
+                "CityNameAr": "الوجة",
+                "CityNameLa": "AL-wjh"
+            },
+            {
+                "CityID": 637,
+                "CityNameAr": "املج",
+                "CityNameLa": "Umluj"
+            },
+            {
+                "CityID": 638,
+                "CityNameAr": "الجوف",
+                "CityNameLa": "Al Jowf"
+            },
+            {
+                "CityID": 639,
+                "CityNameAr": "دومة الجندل",
+                "CityNameLa": "Jandal"
+            },
+            {
+                "CityID": 640,
+                "CityNameAr": "طبرجل",
+                "CityNameLa": "Tabarjal"
+            },
+            {
+                "CityID": 641,
+                "CityNameAr": "القريات",
+                "CityNameLa": "Qurayyat"
+            },
+            {
+                "CityID": 642,
+                "CityNameAr": "حقل",
+                "CityNameLa": "Haql"
+            },
+            {
+                "CityID": 643,
+                "CityNameAr": "عنيزة",
+                "CityNameLa": "Unaizah"
+            },
+            {
+                "CityID": 644,
+                "CityNameAr": "الرس",
+                "CityNameLa": "Al Rass"
+            },
+            {
+                "CityID": 645,
+                "CityNameAr": "البكيرية",
+                "CityNameLa": "Bukayriyah"
+            },
+            {
+                "CityID": 646,
+                "CityNameAr": "ينبع",
+                "CityNameLa": "Yanbu"
+            },
+            {
+                "CityID": 647,
+                "CityNameAr": "مهد الذهب",
+                "CityNameLa": "Mahd al dhab"
+            },
+            {
+                "CityID": 648,
+                "CityNameAr": "العلا",
+                "CityNameLa": "Al Ula"
+            },
+            {
+                "CityID": 649,
+                "CityNameAr": "خيبر",
+                "CityNameLa": "Khaybar"
+            },
+            {
+                "CityID": 650,
+                "CityNameAr": "رابغ",
+                "CityNameLa": "Rabigh"
+            },
+            {
+                "CityID": 651,
+                "CityNameAr": "الليث",
+                "CityNameLa": "Laith"
+            },
+            {
+                "CityID": 652,
+                "CityNameAr": "القنفذة",
+                "CityNameLa": "Qunfudah"
+            },
+            {
+                "CityID": 653,
+                "CityNameAr": "الخرمة",
+                "CityNameLa": "Kurmah"
+            },
+            {
+                "CityID": 654,
+                "CityNameAr": "البرك",
+                "CityNameLa": "AL-berk"
+            },
+            {
+                "CityID": 655,
+                "CityNameAr": "خميس مشيط",
+                "CityNameLa": "Khamis Mushait"
+            },
+            {
+                "CityID": 656,
+                "CityNameAr": "ظهران الجنوب",
+                "CityNameLa": "Dhahran South"
+            },
+            {
+                "CityID": 657,
+                "CityNameAr": "النماص",
+                "CityNameLa": "Nimas"
+            },
+            {
+                "CityID": 658,
+                "CityNameAr": "رجال المع",
+                "CityNameLa": "Rejal Elmaa"
+            },
+            {
+                "CityID": 659,
+                "CityNameAr": "بيشة",
+                "CityNameLa": "Bishah"
+            },
+            {
+                "CityID": 660,
+                "CityNameAr": "محائل عسير",
+                "CityNameLa": "Maha?l Asir"
+            },
+            {
+                "CityID": 661,
+                "CityNameAr": "الباحة",
+                "CityNameLa": "Baha"
+            },
+            {
+                "CityID": 662,
+                "CityNameAr": "قلوة",
+                "CityNameLa": "Gulwh"
+            },
+            {
+                "CityID": 663,
+                "CityNameAr": "المندق",
+                "CityNameLa": "Almendq"
+            },
+            {
+                "CityID": 664,
+                "CityNameAr": "نجران",
+                "CityNameLa": "Najran"
+            },
+            {
+                "CityID": 665,
+                "CityNameAr": "صامطة",
+                "CityNameLa": "Samitah"
+            },
+            {
+                "CityID": 666,
+                "CityNameAr": "صبيا",
+                "CityNameLa": "Sabya"
+            },
+            {
+                "CityID": 667,
+                "CityNameAr": "أبوعريش",
+                "CityNameLa": "Abuarich"
+            },
+            {
+                "CityID": 668,
+                "CityNameAr": "فرسان",
+                "CityNameLa": "Farsan"
+            },
+            {
+                "CityID": 669,
+                "CityNameAr": "بالقرن",
+                "CityNameLa": "Belgarn"
+            },
+            {
+                "CityID": 670,
+                "CityNameAr": "بلجرشي",
+                "CityNameLa": "Biljurshi"
+            },
+            {
+                "CityID": 671,
+                "CityNameAr": "سدير",
+                "CityNameLa": "Sudair"
+            },
+            {
+                "CityID": 672,
+                "CityNameAr": "الاحساء",
+                "CityNameLa": "Al-Hasa"
+            },
+            {
+                "CityID": 673,
+                "CityNameAr": "سبت العلايا",
+                "CityNameLa": "Sabt Al Alayah"
+            },
+            {
+                "CityID": 675,
+                "CityNameAr": "السليل",
+                "CityNameLa": "As Sulayyil"
+            },
+            {
+                "CityID": 676,
+                "CityNameAr": "العرضية الجنوبية",
+                "CityNameLa": "Alardiah Aljanoubiah"
+            },
+            {
+                "CityID": 677,
+                "CityNameAr": "تثليث",
+                "CityNameLa": "Ttlet"
+            },
+            {
+                "CityID": 678,
+                "CityNameAr": "سراة عبيدة",
+                "CityNameLa": "Sarat Obeida"
+            },
+            {
+                "CityID": 679,
+                "CityNameAr": "شرورة",
+                "CityNameLa": "Sharorah"
+            },
+            {
+                "CityID": 680,
+                "CityNameAr": "المذنب",
+                "CityNameLa": "AL-mthenb"
+            },
+            {
+                "CityID": 681,
+                "CityNameAr": "بقعاء",
+                "CityNameLa": "Baqaa"
+            },
+            {
+                "CityID": 682,
+                "CityNameAr": "الغاط",
+                "CityNameLa": "Ghat"
+            },
+            {
+                "CityID": 2005,
+                "CityNameAr": "القيصومة",
+                "CityNameLa": "alqaisomah"
+            },
+            {
+                "CityID": 5072,
+                "CityNameAr": "القصيم",
+                "CityNameLa": "alqasem"
+            }
+ ]

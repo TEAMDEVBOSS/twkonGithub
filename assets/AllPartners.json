@@ -1,0 +1,521 @@
+{
+  "allPartners": [
+    {
+      "partnerNameEn": "Communications, Space and Technology Commission",
+      "partnerNameAr": "هيئة الاتصالات والفضاء والتقنية",
+      "isPopularPartner": false,
+      "partnerId": 257,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-cst"
+      },
+      "partnerBio": "The official account of the Communications, Space and Technology Commission in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Council of Health Insurance",
+      "partnerNameAr": "مجلس الضمان الصحي",
+      "isPopularPartner": false,
+      "partnerId": 171,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-coi"
+      },
+      "partnerBio": "The official account of the Council of Health Insurance in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Digital Government Authority",
+      "partnerNameAr": "هيئة الحكومة الرقمية",
+      "isPopularPartner": false,
+      "partnerId": 258,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-dga"
+      },
+      "partnerBio": "for Bio test only"
+    },
+    {
+      "partnerNameEn": "Education and Training Evaluation Commission",
+      "partnerNameAr": "هيئة تقويم التعليم والتدريب ",
+      "isPopularPartner": false,
+      "partnerId": 165,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-etec"
+      },
+      "partnerBio": "The official account of the Education and Training Evaluation Commission in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ehsan",
+      "partnerNameAr": "إحسان",
+      "isPopularPartner": false,
+      "partnerId": 173,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ehsan"
+      },
+      "partnerBio": "The official account of Ehsan in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Fund For Martyr, Wounded, Pow & Missing In Action",
+      "partnerNameAr": "صندوق الشهداء والمصابين والأسرى والمفقودين",
+      "isPopularPartner": false,
+      "partnerId": 167,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-shaham"
+      },
+      "partnerBio": "The official account of the Fund For Martyr, Wounded, Pow & Missing In Action in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "General Authority for Statistics",
+      "partnerNameAr": "الهيئة العامة للإحصاء",
+      "isPopularPartner": false,
+      "partnerId": 168,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-gas"
+      },
+      "partnerBio": "The official account of the General Authority for Statistics in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "General Authority of Civil Aviation (GACA)",
+      "partnerNameAr": "الهيئة العامة للطيران المدني",
+      "isPopularPartner": false,
+      "partnerId": 246,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-gaca"
+      },
+      "partnerBio": "for Bio test only"
+    },
+    {
+      "partnerNameEn": "General Commission For Audiovisual Media",
+      "partnerNameAr": "الهيئة العامة للإعلام المرئي و المسموع",
+      "isPopularPartner": false,
+      "partnerId": 87,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-gcam"
+      },
+      "partnerBio": "The official account of the General Commission For Audiovisual Media in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "General Commission for the Guardianship of Trust Funds for Minor and their Counterparts",
+      "partnerNameAr": "الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم",
+      "isPopularPartner": false,
+      "partnerId": 247,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-wilayah"
+      },
+      "partnerBio": "for Bio test only"
+    },
+    {
+      "partnerNameEn": "General Department of Traffic",
+      "partnerNameAr": "الإدارة العامة للمرور",
+      "isPopularPartner": false,
+      "partnerId": 157,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-Traffic"
+      },
+      "partnerBio": "The official account of the General Department of Traffic in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "General Directorate of Passports",
+      "partnerNameAr": "المديرية العامة للجوازات",
+      "isPopularPartner": false,
+      "partnerId": 152,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-passports"
+      },
+      "partnerBio": "The official account of the General Directorate of Passports in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "General Directorate of Public Security",
+      "partnerNameAr": "المديرية العامة للأمن العام",
+      "isPopularPartner": false,
+      "partnerId": 234,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ps"
+      },
+      "partnerBio": "for Bio test only"
+    },
+    {
+      "partnerNameEn": "General Entertainment Authority",
+      "partnerNameAr": "الهيئة العامة للترفيه",
+      "isPopularPartner": false,
+      "partnerId": 169,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-gae"
+      },
+      "partnerBio": "The official account of the General Entertainment Authority in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "General Organization for Social Insurance",
+      "partnerNameAr": "المؤسسة العامة للتأمينات الاجتماعية",
+      "isPopularPartner": false,
+      "partnerId": 113,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-gosi"
+      },
+      "partnerBio": "The official account of the General Organization for Social Insurance in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Jeddah Municipality",
+      "partnerNameAr": "أمانة محافظة جدة",
+      "isPopularPartner": false,
+      "partnerId": 251,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ja"
+      },
+      "partnerBio": "for Bio test only"
+    },
+    {
+      "partnerNameEn": "Ministerial Agency of Civil Affairs",
+      "partnerNameAr": "وكالة وزارة الداخلية للأحوال المدنية",
+      "isPopularPartner": false,
+      "partnerId": 151,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-macf"
+      },
+      "partnerBio": "The official account of the Ministerial Agency of Civil Affairs in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Commerce",
+      "partnerNameAr": "وزارة التجارة",
+      "isPopularPartner": true,
+      "partnerId": 20,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ministry-of-commerce"
+      },
+      "partnerBio": "The official account of the Ministry of Commerce in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Communications and Information Technology",
+      "partnerNameAr": "وزارة الاتصالات وتقنية المعلومات",
+      "isPopularPartner": false,
+      "partnerId": 262,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-mcit"
+      },
+      "partnerBio": "for Bio test only"
+    },
+    {
+      "partnerNameEn": "Ministry of Culture",
+      "partnerNameAr": "وزارة الثقافة",
+      "isPopularPartner": false,
+      "partnerId": 265,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ministry-of-culture"
+      },
+      "partnerBio": "The official account of the Ministry of Culture in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Defense",
+      "partnerNameAr": "وزارة الدفاع",
+      "isPopularPartner": true,
+      "partnerId": 33,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-mod"
+      },
+      "partnerBio": "The official account of the Ministry of Defense in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Education",
+      "partnerNameAr": "وزارة التعليم",
+      "isPopularPartner": false,
+      "partnerId": 108,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ministry-of-education"
+      },
+      "partnerBio": "The official account of the Ministry of Education in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Foreign Affairs",
+      "partnerNameAr": "وزارة الخارجية",
+      "isPopularPartner": false,
+      "partnerId": 267,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ministry-of-foreign-affairs"
+      },
+      "partnerBio": "for Bio test only"
+    },
+    {
+      "partnerNameEn": "Ministry of Haj and Umra",
+      "partnerNameAr": "وزارة الحج والعمرة",
+      "isPopularPartner": false,
+      "partnerId": 166,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ministry-of-hajj-and-umrah"
+      },
+      "partnerBio": "The official account of the Ministry of Haj and Umra in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Health",
+      "partnerNameAr": "وزارة الصحة",
+      "isPopularPartner": false,
+      "partnerId": 107,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ministry-of-health"
+      },
+      "partnerBio": "The official account of the Ministry of Health in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Human Resource and Social Development",
+      "partnerNameAr": "وزارة الموارد البشرية والتنمية الاجتماعية",
+      "isPopularPartner": false,
+      "partnerId": 112,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-hrsd"
+      },
+      "partnerBio": "The official account of the Ministry of Human Resource and Social Development in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Interior",
+      "partnerNameAr": "وزارة الداخلية",
+      "isPopularPartner": true,
+      "partnerId": 40,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-moi"
+      },
+      "partnerBio": "The official account of the Ministry of Interior in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Islamic Affairs, Dawah and Guidance",
+      "partnerNameAr": "وزارة الشؤون الإسلامية والدعوة والإرشاد",
+      "isPopularPartner": false,
+      "partnerId": 118,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-moia"
+      },
+      "partnerBio": "The official account of the Ministry of Islamic Affairs, Dawah and Guidance in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Justice",
+      "partnerNameAr": "وزارة العدل",
+      "isPopularPartner": false,
+      "partnerId": 163,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ministry-of-justice"
+      },
+      "partnerBio": "The official account of the Ministry of Justice in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Municipal, Rural Affairs and Housing",
+      "partnerNameAr": "وزارة الشؤون البلدية والقروية والإسكان",
+      "isPopularPartner": false,
+      "partnerId": 109,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-momrah"
+      },
+      "partnerBio": "The official account of the Ministry of Municipal, Rural Affairs and Housing in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Sport",
+      "partnerNameAr": "وزارة الرياضة",
+      "isPopularPartner": false,
+      "partnerId": 270,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-ministry-of-sport"
+      },
+      "partnerBio": "The official account of the Ministry of Sport in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Ministry of Tourism",
+      "partnerNameAr": "وزارة السياحة",
+      "isPopularPartner": false,
+      "partnerId": 271,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-mot"
+      },
+      "partnerBio": "The official account of the Ministry of Tourism in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "National Center for Meteorology",
+      "partnerNameAr": "المركز الوطني للأرصاد",
+      "isPopularPartner": false,
+      "partnerId": 119,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-weather"
+      },
+      "partnerBio": "The official account of the National Center for Meteorology in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "National CyberSecurity Authority",
+      "partnerNameAr": "الهيئة الوطنية للأمن السيبراني",
+      "isPopularPartner": false,
+      "partnerId": 249,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-nca"
+      },
+      "partnerBio": "The official account of the National CyberSecurity Authority in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "National Violations Platform (Efaa)",
+      "partnerNameAr": "المنصة الوطنية للمخالفات - إيفاء",
+      "isPopularPartner": false,
+      "partnerId": 159,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner_Efaa"
+      },
+      "partnerBio": "The official account of the National Violations Platform (Efaa) in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "nupco",
+      "partnerNameAr": "نوبكو",
+      "isPopularPartner": false,
+      "partnerId": 175,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-nupco"
+      },
+      "partnerBio": "The official account of Nupco in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Royal Commission for Riyadh City",
+      "partnerNameAr": "الهيئة الملكية لمدينة الرياض",
+      "isPopularPartner": false,
+      "partnerId": 172,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-rcrc"
+      },
+      "partnerBio": "The official account of the Royal Commission for Riyadh City in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Saudi Center for Opinion Polling (SCOP)",
+      "partnerNameAr": "المركز السعودي لاستطلاعات الرأي",
+      "isPopularPartner": false,
+      "partnerId": 86,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-scop"
+      },
+      "partnerBio": "The official account of the Saudi Center for Opinion Polling (SCOP) in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Saudi Center for Organ Transplantation",
+      "partnerNameAr": "المركز السعودي لزراعة الأعضاء",
+      "isPopularPartner": false,
+      "partnerId": 114,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-scot"
+      },
+      "partnerBio": "The official account of the Saudi Center for Organ Transplantation in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Saudi Council of Engineers",
+      "partnerNameAr": "الهيئة السعودية للمهندسين",
+      "isPopularPartner": true,
+      "partnerId": 85,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-sce"
+      },
+      "partnerBio": "The official account of the Saudi Council of Engineers in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Saudi Data & AI Authority (SDAIA)",
+      "partnerNameAr": "الهيئة السعودية للبيانات والذكاء الاصطناعي - سدايا",
+      "isPopularPartner": true,
+      "partnerId": 65,
+      "partnerlogo": {
+        "type": 2,
+        "value": "dc_sdaia"
+      },
+      "partnerBio": "The official account of the Saudi Data & AI Authority (SDAIA)"
+    },
+    {
+      "partnerNameEn": "Saudi Opinion",
+      "partnerNameAr": "جنود رؤية 2030",
+      "isPopularPartner": false,
+      "partnerId": 274,
+      "partnerlogo": {
+        "type": 4,
+        "value": ""
+      },
+      "partnerBio": "Saudi Opinion Saudi Opinion"
+    },
+    {
+      "partnerNameEn": "Saudi Post Corporation -SPL",
+      "partnerNameAr": "مؤسسة البريد السعودي - سبل",
+      "isPopularPartner": false,
+      "partnerId": 161,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-spl"
+      },
+      "partnerBio": "The official account of the Saudi Post Corporation (SPL) in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Saudi Press Agency",
+      "partnerNameAr": "وكالة الأنباء السعودية",
+      "isPopularPartner": false,
+      "partnerId": 272,
+      "partnerlogo": {
+        "type": 4,
+        "value": ""
+      },
+      "partnerBio": "The Saudi Press Agency (SPA) is an independent authority affiliated with the Ministry of Media. Established on Saturday 11/25/1390 Hijri corresponding to 23 January 1971, SPA is the first national news agency, and the first and main source of news in the Kingdom of Saudi Arabia. It seeks to be a central body for collecting and distributing local and international news.\n"
+    },
+    {
+      "partnerNameEn": "Saudi Red Crescent Authority",
+      "partnerNameAr": "هيئة الهلال الأحمر السعودي",
+      "isPopularPartner": false,
+      "partnerId": 115,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-saudi-red-crescent-authority"
+      },
+      "partnerBio": "The official account of the Saudi Red Crescent Authority in Tawakkalna"
+    },
+    {
+      "partnerNameEn": "Tawakkalna",
+      "partnerNameAr": "توكلنا",
+      "isPopularPartner": false,
+      "partnerId": 89,
+      "partnerlogo": {
+        "type": 2,
+        "value": "circleLogo"
+      },
+      "partnerBio": "The official account of Tawakkalna | Your digital companion"
+    },
+    {
+      "partnerNameEn": "Zakat, Tax and Customs Authority",
+      "partnerNameAr": "هيئة الزكاة والضريبة والجمارك",
+      "isPopularPartner": false,
+      "partnerId": 259,
+      "partnerlogo": {
+        "type": 2,
+        "value": "partner-zatca"
+      },
+      "partnerBio": "The official account of the Zakat, Tax and Customs Authority in Tawakkalna"
+    }
+  ]
+}
